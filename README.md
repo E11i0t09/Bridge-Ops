@@ -55,9 +55,10 @@ Your desktop icons get their own space: the **icon zone** keeps a strip on the l
 
 ## Gallery
 
-| | |
-|---|---|
-| ![Screenshot 2](images/screenshot-2.jpg) | ![Screenshot 3](images/screenshot-3.jpg) |
+
+<img width="1280" height="720" alt="Bridge-Ops-Amber" src="https://github.com/user-attachments/assets/e35e54f7-5eca-4140-b225-4eeeb8ec48d8" />
+<img width="1280" height="720" alt="Bridge-Ops-Steel-Blue" src="https://github.com/user-attachments/assets/8101a583-f3f7-47db-89ec-e061eeed1cf3" />
+
 
 **Four colour schemes**
 
