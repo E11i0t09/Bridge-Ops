@@ -1,0 +1,147 @@
+Bridge Ops – Info / Rechtliches
+===============================
+
+WAS IST DAS?
+------------
+- Ein animiertes Hintergrundbild im Stil einer Sci-Fi-Konsole, ein Fan-Projekt. Eigenständiges
+  Design ohne offizielle Logos oder Grafiken; keine Verbindung zu Film-, Serien- oder
+  Markenrechteinhabern (z. B. Paramount/CBS). Genannte Marken gehören ihren jeweiligen Inhabern.
+- Kostenlos. Weitergabe nur unentgeltlich, keine kommerzielle Nutzung – mehrere Datenquellen
+  erlauben nur nicht-kommerzielle Verwendung.
+
+LIZENZ
+------
+- © 2026 E11iot – CC BY-NC-ND 4.0: Nutzen und unverändert weitergeben erlaubt, mit
+  Namensnennung, nicht kommerziell, keine veröffentlichten Bearbeitungen. Gilt nicht für Daten,
+  Karten und Schriften (siehe unten). Details: LICENSE.txt, creativecommons.org/licenses/by-nc-
+  nd/4.0
+
+KEINE GEWÄHR
+------------
+- Alle Daten werden ohne Gewähr und ohne Prüfung angezeigt; sie können verspätet, unvollständig
+  oder falsch sein. Die Nutzung erfolgt auf eigene Verantwortung.
+- Wetterwarnungen: Maßgeblich sind allein die amtlichen Warnungen des Deutschen Wetterdienstes
+  (dwd.de, App WarnWetter) bzw. des jeweiligen nationalen Wetterdienstes.
+- Flugwetter (METAR/TAF) und Flugradar: NICHT für die Flugvorbereitung, Navigation oder andere
+  sicherheitsrelevante Entscheidungen. Dafür nur offizielle Quellen (z. B. DFS/DWD-Flugwetter,
+  AIS) nutzen.
+- Pegel- und Luftqualitätswerte sind Rohdaten bzw. Modellwerte und ersetzen keine amtlichen
+  Hochwasser- oder Gesundheitswarnungen.
+
+DATENSCHUTZ
+-----------
+- Das Hintergrundbild speichert Einstellungen (Ort, Sprache, Icon-Zone usw.) nur lokal auf
+  deinem Rechner (Browser-Speicher).
+- Zum Laden der Daten ruft dein Rechner die unten genannten Dienste direkt auf. Diese sehen
+  dabei deine IP-Adresse und die Koordinaten des gewählten Orts.
+- Flugdaten, Flugzeug-Details und englische DWD-Texte laufen über den eingetragenen ADS-B-Proxy
+  (adsb.php). Dessen Betreiber sieht IP-Adresse und Standort-Koordinaten. Ohne Proxy-Eintrag
+  entfallen Flugradar und diese Zusatzdaten.
+- Der optionale Bridge-Ops-Sensor (Windows) misst Laufwerke und Netzwerk nur lokal. Er ist nur
+  auf diesem Rechner (127.0.0.1) erreichbar, antwortet nur dem Wallpaper und sendet nichts ins
+  Internet.
+
+DATENQUELLEN UND LIZENZEN
+-------------------------
+- Wetter, Ortssuche: Open-Meteo.com – CC BY 4.0, kostenlos nur für nicht-kommerzielle Nutzung.
+- Luftqualität, UV, Pollen: Copernicus Atmosphere Monitoring Service (CAMS) über Open-Meteo –
+  enthält modifizierte Copernicus-Informationen.
+- Regenradar: Weather data by RainViewer (rainviewer.com).
+- Wetterwarnungen, Warngebiete: Quelle: Deutscher Wetterdienst (DWD), opendata.dwd.de /
+  maps.dwd.de.
+- Pegel: PEGELONLINE, Wasserstraßen- und Schifffahrtsverwaltung des Bundes (WSV) – Datenlizenz
+  Deutschland Zero 2.0. Sturmflut-Klassen Ostsee nach BSH.
+- METAR/TAF: Data from MET Norway (api.met.no) – NLOD 2.0 / CC BY 4.0. Rückfall über den Proxy:
+  NOAA / aviationweather.gov (US-Regierungsdaten).
+- ADS-B-Flugdaten: airplanes.live, Rückfall adsb.lol (ODbL) – nur nicht-kommerzielle Nutzung
+  nach den Bedingungen der Anbieter. Flugbahnen schreibt der eigene Proxy aus diesen Daten mit
+  (max. 2 Stunden).
+- Flugzeug-/Routendaten: hexdb.io (Daten u. a. von PlaneBase/PlanePlotter, Jim Mason, Steve
+  Hibberd, Airport-Data) und adsb.lol-Routen.
+- Karte: Natural Earth (gemeinfrei) über world-atlas / jsDelivr. Flugplätze: OurAirports
+  (gemeinfrei).
+- Schriften: Antonio von Vernon Adams; im Glascockpit B612 / B612 Mono (Airbus, ENAC, Université
+  de Toulouse III, Intactile DESIGN); im Touch Panel Roboto Condensed (Google) – jeweils SIL
+  Open Font License 1.1.
+- Systemwerte, Audio, Wiedergabe: Lively Wallpaper (Windows). Unter macOS z. B. Plash. Beides
+  Programme Dritter.
+
+HAFTUNG FÜR DIENSTE DRITTER
+---------------------------
+- Die genannten Dienste können sich jederzeit ändern, eingeschränkt oder abgeschaltet werden. Es
+  besteht kein Anspruch auf Verfügbarkeit. Für Inhalte und Datenschutz der Dienste sind deren
+  Betreiber verantwortlich.
+
+
+########################################
+
+Bridge Ops – Info / Legal
+=========================
+
+WHAT IS THIS?
+-------------
+- An animated wallpaper styled like a sci-fi console – a fan project. Original design without
+  official logos or artwork; not affiliated with or endorsed by any film, TV or brand rights
+  holder (e.g. Paramount/CBS). Trademarks mentioned belong to their respective owners.
+- Free of charge. Share only free of charge, no commercial use – several data sources allow non-
+  commercial use only.
+
+LICENSE
+-------
+- © 2026 E11iot – CC BY-NC-ND 4.0: use and share unchanged, with attribution, non-commercial, no
+  published modifications. Does not cover data, maps and fonts (see below). Details:
+  LICENSE.txt, creativecommons.org/licenses/by-nc-nd/4.0
+
+NO WARRANTY
+-----------
+- All data is shown as is, unverified; it may be delayed, incomplete or wrong. Use at your own
+  risk.
+- Weather warnings: only the official warnings of Deutscher Wetterdienst (dwd.de, WarnWetter
+  app) or your national weather service are authoritative.
+- Aviation weather (METAR/TAF) and flight radar: NOT for flight planning, navigation or any
+  other safety-related decision. Use official sources only.
+- Water levels and air quality are raw or model data and do not replace official flood or health
+  warnings.
+
+PRIVACY
+-------
+- The wallpaper stores settings (location, language, icon zone etc.) only locally on your
+  computer (browser storage).
+- To load data, your computer contacts the services listed below directly. They see your IP
+  address and the coordinates of the chosen place.
+- Flight data, aircraft details and English DWD texts go through the configured ADS-B proxy
+  (adsb.php). Its operator sees your IP address and location coordinates. Without a proxy,
+  flight radar and these extras are disabled.
+- The optional Bridge-Ops-Sensor (Windows) measures drives and network locally only. It is
+  reachable only on this computer (127.0.0.1), answers only the wallpaper and sends nothing to
+  the internet.
+
+DATA SOURCES AND LICENCES
+-------------------------
+- Weather, place search: Open-Meteo.com – CC BY 4.0, free for non-commercial use only.
+- Air quality, UV, pollen: Copernicus Atmosphere Monitoring Service (CAMS) via Open-Meteo –
+  contains modified Copernicus information.
+- Rain radar: Weather data by RainViewer (rainviewer.com).
+- Weather warnings, warning areas: Source: Deutscher Wetterdienst (DWD), opendata.dwd.de /
+  maps.dwd.de.
+- Water levels: PEGELONLINE, German Federal Waterways and Shipping Administration (WSV) – Data
+  licence Germany Zero 2.0. Baltic storm surge classes per BSH.
+- METAR/TAF: Data from MET Norway (api.met.no) – NLOD 2.0 / CC BY 4.0. Fallback via proxy: NOAA
+  / aviationweather.gov (US government data).
+- ADS-B flight data: airplanes.live, fallback adsb.lol (ODbL) – non-commercial use per the
+  providers' terms. Flight tracks are recorded by your own proxy from this data (max. 2 hours).
+- Aircraft/route data: hexdb.io (data incl. PlaneBase/PlanePlotter, Jim Mason, Steve Hibberd,
+  Airport-Data) and adsb.lol routes.
+- Map: Natural Earth (public domain) via world-atlas / jsDelivr. Airports: OurAirports (public
+  domain).
+- Fonts: Antonio by Vernon Adams; in the glass cockpit B612 / B612 Mono (Airbus, ENAC,
+  Université de Toulouse III, Intactile DESIGN); in the touch panel Roboto Condensed (Google) –
+  each SIL Open Font License 1.1.
+- System values, audio, now playing: Lively Wallpaper (Windows). On macOS e.g. Plash. Both are
+  third-party apps.
+
+THIRD-PARTY SERVICES
+--------------------
+- The services listed may change, be restricted or shut down at any time. There is no
+  entitlement to availability. Their operators are responsible for their content and privacy.
+
