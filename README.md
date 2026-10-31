@@ -4,8 +4,9 @@
 
 <br><br>
 
-[![Download Bridge Ops](https://img.shields.io/badge/Download-Bridge%20Ops-FF9966?style=for-the-badge)](https://github.com/user-attachments/files/33168702/Bridge-Ops-Lively-Public.zip)
-[![Download Sensor](https://img.shields.io/badge/Optional-Sensor-9999FF?style=for-the-badge)](https://github.com/user-attachments/files/33168703/Bridge-Ops-Sensor.zip)
+[![Download Bridge Ops](https://img.shields.io/badge/Download-Bridge%20Ops-FF9966?style=for-the-badge)](https://github.com/E11i0t09/Bridge-Ops/releases/latest/download/Bridge-Ops-Lively.zip)
+[![Download Airspace](https://img.shields.io/badge/Second%20screen-Airspace-CC99CC?style=for-the-badge)](https://github.com/E11i0t09/Bridge-Ops/releases/latest/download/Bridge-Ops-Airspace-Lively.zip)
+[![Download Sensor](https://img.shields.io/badge/Optional-Sensor-9999FF?style=for-the-badge)](https://github.com/E11i0t09/Bridge-Ops/releases/latest/download/Bridge-Ops-Sensor-v2.2.0.zip)
 
 ![Lively Wallpaper](https://img.shields.io/badge/Lively-Wallpaper-CC99CC?style=flat-square)
 ![Languages](https://img.shields.io/badge/Language-EN%20%7C%20DE-FFCC66?style=flat-square)
@@ -28,7 +29,13 @@ I'm not a real Trekkie. I couldn't tell you which deck sickbay is on. But I grew
 | **System** | load with history, audio visualizer |
 | **Stardate** | TNG style, of course |
 
-There's a dimmer and an animation toggle for when the bridge gets too busy, plus English/German and metric/imperial.
+There's a dimmer and an animation toggle for when the bridge gets too busy, plus English/German (English by default) and metric/imperial.
+
+## Second screen: Airspace
+
+**Bridge Ops – Airspace** turns another monitor into a big live radar: coastlines, airfields, a traffic list sorted by distance and details on click. It uses the same ADS-B relay as the main wallpaper.
+
+![Airspace](images/airspace.jpg)
 
 ## Fits your desktop
 
@@ -38,31 +45,34 @@ Your desktop icons get their own space: the **icon zone** keeps a strip on the l
 
 ## Getting started
 
-1. Drag the zip into Lively and set it as your wallpaper.
-2. On first start, the setup wizard asks for your location. Reopen it anytime with the gear button in the top right.
-3. *Optional:* enable the flight radar (see below).
-4. *Optional:* install the sensor for more system readouts.
+1. Download `Bridge-Ops-Lively.zip` (and `Bridge-Ops-Airspace-Lively.zip` for a second screen) from [Releases](../../releases/latest).
+2. Drag the zip into Lively and set it as your wallpaper.
+3. On first start, the setup wizard asks for your location. Reopen it anytime with the gear button in the top right.
+4. *Optional:* enable the flight radar (see below).
+5. *Optional:* install the sensor for more system readouts.
+
+The source of both wallpapers is in [`Bridge-Ops-Lively`](Bridge-Ops-Lively) and [`Bridge-Ops-Airspace-Lively`](Bridge-Ops-Airspace-Lively).
 
 > [!TIP]
-> **Flight radar:** the free ADS-B services don't allow requests straight from a wallpaper, so the radar needs a tiny relay. `adsb.php` is included. Put it on any web space with PHP and enter its URL in the wizard (guide in `PROXY-HOSTING.txt`).
+> **Flight radar:** the free ADS-B services don't allow requests straight from a wallpaper, so the radar needs a tiny relay. `adsb.php` is included. Put it on any web space with PHP and enter its URL in the wizard (guide in `PROXY-HOSTING.txt`). Please run it for yourself only.
 >
 > No web space? No problem. Everything else works anyway, and the center shows the situation view instead.
 
 > [!NOTE]
-> **Bridge-Ops-Sensor (Windows, optional):** adds drive usage, network speed per adapter and VRAM. It runs locally only and never sends anything anywhere.
+> **Bridge-Ops-Sensor (Windows, optional):** adds drive usage, network speed on the right adapter, VRAM and faster load readings. It listens on `127.0.0.1` only and never sends anything anywhere.
 >
 > The script isn't digitally signed, so Windows SmartScreen will warn you. That's expected. The source is plain text, have a look first if you like.
 
 ## Gallery
 
-
 <img width="1280" height="720" alt="Bridge-Ops-Amber" src="https://github.com/user-attachments/assets/e35e54f7-5eca-4140-b225-4eeeb8ec48d8" />
 <img width="1280" height="720" alt="Bridge-Ops-Steel-Blue" src="https://github.com/user-attachments/assets/8101a583-f3f7-47db-89ec-e061eeed1cf3" />
-
 
 **Four colour schemes**
 
 ![Colour schemes](images/colour-schemes.jpg)
+
+<sub>Screenshots: live data for Edinburgh.</sub>
 
 ## The boring but important part
 
