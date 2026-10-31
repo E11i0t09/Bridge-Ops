@@ -1,0 +1,142 @@
+{
+  "lang": {
+    "type": "dropdown",
+    "text": "Language",
+    "value": 1,
+    "items": [
+      "Deutsch",
+      "English"
+    ]
+  },
+  "units": {
+    "type": "dropdown",
+    "text": "Units",
+    "value": 0,
+    "items": [
+      "Metric (°C, km/h, km)",
+      "Imperial (°F, mph, mi)"
+    ]
+  },
+  "place": {
+    "type": "textbox",
+    "text": "Place (e.g. Hamburg – overrides the setup wizard, empty = unchanged)",
+    "value": ""
+  },
+  "theme": {
+    "type": "dropdown",
+    "text": "Color scheme",
+    "value": 0,
+    "items": [
+      "Amber",
+      "Blue",
+      "Grey",
+      "Steel blue"
+    ]
+  },
+  "ui": {
+    "type": "slider",
+    "text": "Interface size (%)",
+    "value": 80,
+    "min": 50,
+    "max": 130,
+    "step": 5
+  },
+  "range": {
+    "type": "slider",
+    "text": "Radar range (km)",
+    "value": 60,
+    "min": 20,
+    "max": 150,
+    "step": 10
+  },
+  "seconds": {
+    "type": "checkbox",
+    "text": "Show seconds",
+    "value": true
+  },
+  "weatherAlert": {
+    "type": "checkbox",
+    "text": "Red on severe weather (thunderstorm / gusts from 75 km/h)",
+    "value": true
+  },
+  "adsbProxy": {
+    "type": "textbox",
+    "text": "ADS-B proxy URL (adsb.php)",
+    "value": ""
+  },
+  "iconCols": {
+    "type": "slider",
+    "text": "Icon zone: number of columns (0 = off)",
+    "value": 3,
+    "min": 0,
+    "max": 10,
+    "step": 1
+  },
+  "iconCellW": {
+    "type": "slider",
+    "text": "Icon zone: column width (Windows pixels)",
+    "value": 118,
+    "min": 40,
+    "max": 300,
+    "step": 1
+  },
+  "iconCellH": {
+    "type": "slider",
+    "text": "Icon zone: row height (Windows pixels)",
+    "value": 93,
+    "min": 40,
+    "max": 300,
+    "step": 1
+  },
+  "iconGrid": {
+    "type": "checkbox",
+    "text": "Show calibration grid",
+    "value": false
+  },
+  "zoneFrame": {
+    "type": "checkbox",
+    "text": "Frame around the icon zone",
+    "value": true
+  },
+  "taskbar": {
+    "type": "slider",
+    "text": "Bottom gap for the taskbar (% of height)",
+    "value": 2.8,
+    "min": 0,
+    "max": 8,
+    "step": 0.1
+  },
+  "radar": {
+    "type": "checkbox",
+    "text": "Center: flight radar (off = situation: rain, warnings, river levels)",
+    "value": true
+  },
+  "metarFav": {
+    "type": "textbox",
+    "text": "Aviation weather favourites (ICAO, e.g. EDDH,EKCH)",
+    "value": ""
+  },
+  "gpuLabel": {
+    "type": "textbox",
+    "text": "Custom GPU name (empty = automatic)",
+    "value": ""
+  },
+  "dim": {
+    "type": "slider",
+    "text": "Brightness (%)",
+    "value": 100,
+    "min": 10,
+    "max": 100,
+    "step": 5
+  },
+  "anim": {
+    "type": "checkbox",
+    "text": "Animations (number cascade, running lights, blinking)",
+    "value": true
+  },
+  "sensorPort": {
+    "type": "textbox",
+    "text": "Bridge-Ops-Sensor port (only with the sensor, default 47047)",
+    "value": "47047"
+  }
+}

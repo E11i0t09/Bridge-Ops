@@ -1,0 +1,14 @@
+{
+  "AppVersion": "2.0.7.0",
+  "Title": "Bridge Ops",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": null,
+  "Desc": "Sci-fi console: clock, weather, air quality & pollen, aviation weather (METAR/TAF), center switchable between flight radar (ADS-B) and situation view (rain radar, weather warnings, river levels), system load with history, drives & network (optional sensor), audio visualizer, dimmer.",
+  "Author": "E11iot",
+  "License": "CC BY-NC-ND 4.0 · see LICENSE.txt / LEGAL.txt",
+  "Contact": "",
+  "Type": 1,
+  "FileName": "index.html",
+  "Arguments": "--system-information --audio --pause-event true",
+  "IsAbsolutePath": false
+}
